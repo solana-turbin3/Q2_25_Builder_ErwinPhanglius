@@ -10,3 +10,6 @@
 [submodule "vault-anchor"]
 	path = vault-anchor
 	url = https://github.com/d1cetheroller/vault-anchor.git
+[submodule "turbin3-escrow-program"]
+	path = turbin3-escrow-program
+	url = https://github.com/d1cetheroller/turbin3-escrow-program.git
