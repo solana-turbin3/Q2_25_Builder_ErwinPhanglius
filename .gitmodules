@@ -1,0 +1,3 @@
+[submodule "turbin3-prereq-ts"]
+	path = turbin3-prereq-ts
+	url = https://github.com/d1cetheroller/turbin3-prereq-ts.git
