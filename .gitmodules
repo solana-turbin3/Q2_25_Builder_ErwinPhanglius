@@ -13,3 +13,6 @@
 [submodule "turbin3-escrow-program"]
 	path = turbin3-escrow-program
 	url = https://github.com/d1cetheroller/turbin3-escrow-program.git
+[submodule "turbin3-nft-marketplace"]
+	path = turbin3-nft-marketplace
+	url = https://github.com/d1cetheroller/turbin3-nft-marketplace.git
