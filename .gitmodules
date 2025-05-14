@@ -16,3 +16,6 @@
 [submodule "turbin3-nft-marketplace"]
 	path = turbin3-nft-marketplace
 	url = https://github.com/d1cetheroller/turbin3-nft-marketplace.git
+[submodule "capstone/eventdotfun-program"]
+	path = capstone/eventdotfun-program
+	url = https://github.com/d1cetheroller/eventdotfun-program.git
